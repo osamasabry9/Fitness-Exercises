@@ -1,8 +1,24 @@
 # Getting Started with Create React App
 
-https://unitygym.netlify.app/
+This project is a web-based platform designed to showcase a variety of fitness exercises, allowing users to learn and watch exercise demonstrations. Each exercise is presented with a clear description, step-by-step instructions, and an embedded YouTube video for visual guidance. Users can explore exercises based on categories, target areas, difficulty levels, and equipment requirements.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Demo Link
+
+[https://unitygym.netlify.app/]
+
+# Key Features
+
+-**Exercise Library**: A comprehensive collection of fitness exercises categorized by type (Strength, Cardio, Yoga, HIIT, etc.).
+-**Embedded YouTube Videos**: Every exercise page features an embedded YouTube video for visual demonstrations and correct form.
+-**Search & Filters**: Users can search for specific exercises or filter them by difficulty, equipment, and target muscle groups.
+-**Responsive Design**: The website is mobile-friendly, ensuring users can access exercise videos on-the-go.
+-**Exercise Details**: Each exercise includes detailed descriptions, step-by-step instructions, and common mistakes to avoid.
+-**User Engagement**: A comments section where users can share feedback, ask questions, and connect with other fitness enthusiasts.
+
+Frontend: HTML, CSS, JavaScript (React.js)
+Backend (optional): using rapidapi
+Embedding: YouTube API or simple
 
 ## Available Scripts
 
